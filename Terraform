@@ -1,0 +1,12 @@
+# Terraform
+
+## AWS
+
+```bash
+terraform login
+terraform init
+
+```
+
+Create variable set in Terraform Cloud and apply globally
+
